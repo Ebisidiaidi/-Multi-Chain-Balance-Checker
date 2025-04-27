@@ -65,10 +65,6 @@ The script uses a predefined list of chains and their corresponding RPC endpoint
 
 This script uses public RPC endpoints, which may be rate-limited or unreliable. For production use, consider using your own RPC provider.
 
-## License
-
-[Choose a license, e.g., MIT License]
-
 ## Author
 
-[Ebisidiaidi]
+[[Ebisidiaidi](https://t.me/ebisidiaidi)]
