@@ -67,4 +67,4 @@ This script uses public RPC endpoints, which may be rate-limited or unreliable. 
 
 ## Author
 
-[[Ebisidiaidi](https://t.me/ebisidiaidi)]
+[https://t.me/ebisidiaidi]
